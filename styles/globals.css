@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+ul{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+  height: 24px;
+  width: 24px;
+}
